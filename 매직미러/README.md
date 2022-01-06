@@ -1,4 +1,5 @@
 ## 사진
+
 ## 내용
 제작 의도: 신세계 화장실에 있는 거울을 보고 아이디어가 생각이 나서 만듬<br>
 <br>
@@ -14,3 +15,5 @@
 <br>
 
 ### 사용된 깃허브 주소
+https://magicmirror.builders/
+https://github.com/bugsounet/MMM-GoogleAssistant
