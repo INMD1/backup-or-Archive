@@ -1,4 +1,6 @@
 ## 사진
+![image](https://user-images.githubusercontent.com/87979171/148424446-03209552-cff9-4608-8689-b243fe6e098b.png)
+
 ## 내용
 제작 의도: 학교에서 투표앱이 필요하여 제작된 앱<br>
 <br>
